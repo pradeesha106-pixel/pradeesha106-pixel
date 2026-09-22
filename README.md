@@ -1,17 +1,20 @@
 <div align="center">
- Hi I'm Pradeesha 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00D9FF&center=true&width=500&lines=Hi%2C+I'm+Pradeesha+%F0%9F%91%8B;UI%2FUX+Designer+%F0%9F%8E%A8;Welcome+to+my+Pixel+World!" />
+</div>
 
-<!--
-**pradeesha106-pixel/pradeesha106-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About Me
+- 🎨 Aspiring *UI/UX Designer* from Badulla, Sri Lanka
+- 🛠️ Currently learning *Figma, Wireframing & Prototyping*
+- 🌱 My goal is to design clean & user-friendly experiences
+- 💡 Believes: "Good design is invisible"
 
-Here are some ideas to get you started:
+### 🎯 What I'm Working On
+- [ ] My first Login Page design in Figma
+- [ ] Food App UI Concept
+- [ ] Building my portfolio website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect
+- 👩‍🎓 Looking for internships & freelance projects
+
+---
+⭐ From zero designs to many - journey just started!
